@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>snake</label>
+	</settings>
+	<users>
+		<user>
+			<path>snake.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>snake.jcp</path>
+		</project>
+	</projects>
+</workspace>
